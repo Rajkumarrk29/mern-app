@@ -22,7 +22,4 @@ Make sure you have the following installed on your machine:
 - Node.js (v12 or higher)
 - MongoDB (or access to a MongoDB database)
 
-### Clone the Repository
-Clone this repository to your local machine using:
-```bash
-git clone https://github.com/your-username/mern-app.git
+
